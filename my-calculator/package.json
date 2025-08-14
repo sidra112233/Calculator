@@ -1,5 +1,5 @@
 {
-"homepage": "https://<sidra112233/>.github.io/<calculator>",
+"homepage": "https://sidra112233.github.io/calculator",
   "name": "my-calculator",
   "private": true,
   "version": "0.0.0",
@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "react": "^19.1.1",
-    "react-dom": "^19.1.1"
+    "react-dom": "^19.1.1" 
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.0",
